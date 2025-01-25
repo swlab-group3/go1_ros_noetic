@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/song/unitree_ros/devel/setup.sh
