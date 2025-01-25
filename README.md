@@ -22,7 +22,7 @@ git clone https://github.com/swlab-group3/go1_ros_noetic.git
 ```
 
 And open the file `unitree_ros/unitree_gazebo/worlds/stairs.world`. At the end of the file (line 112):
-
+```
 <include>
     <uri>model:///home/unitree/catkin_ws/src/ros_unitree/unitree_ros/unitree_gazebo/worlds/building_editor_models/stairs</uri>
 </include>
