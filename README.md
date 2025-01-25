@@ -36,12 +36,6 @@ cd ~/catkin_ws
 catkin_make
 ```
 
-# Robots Description
-The description of robots Go1, A1, Aliengo, and Laikago. Each package includes mesh, urdf and xacro files of robot. Take Go1 for example, you can check the model in Rviz by:
-```
-roslaunch go1_description go1_rviz.launch
-```
-
 # Start the Simulation
 Open a terminal and start Gazebo with a preloaded world:
 ```
